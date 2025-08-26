@@ -52,7 +52,7 @@ SB1 = Surfboard.new("6'0", "Al Merrick", "19.12x2.25")
     p SB3.length 
     p SB3.shaper 
     p SB3.dims 
-    p "* Did not make expection" 
+    p "* Did not make inspection" 
     p "(PLEASE INSPECT THICKNESS AND FIN SYSTEM)"
 
 p  '-----------------------------------------------------'
@@ -65,4 +65,5 @@ p   '-----------------------------------------------------'
     p SB1.board_info
     p SB2.board_info
     p SB3.board_info
+
 
